@@ -1,0 +1,68 @@
+.menu {
+  height: 92px;
+  background-color: #fcf8f5;
+}
+.login a i {
+  font-size: 20px;
+}
+
+footer {
+  background-color: #130d4c;
+  color: #fff;
+}
+
+.footer_style {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.footer__contact {
+}
+
+.form__email {
+  border-radius: 0;
+  border: 2px solid #ec9639;
+  background-color: transparent;
+  outline: none;
+}
+
+.form__email:focus {
+  border: 2px solid #f3b879;
+}
+
+.form__email__btn {
+  border-radius: 0;
+  background-color: #fccb96;
+  border: none;
+  font-weight: 600;
+  color: #130d4c;
+}
+
+.form__email__btn:hover {
+  background-color: #ec9639;
+  color: #130d4c;
+}
+
+.line {
+  display: flex;
+}
+
+.input-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.input__newsletter {
+  resize: none;
+  border: none;
+  border-radius: 0;
+  border-bottom: 2px solid #ec9639;
+  background-color: transparent;
+  outline: none;
+  color: #fff;
+}
+
+.btn-style {
+  margin-left: ;
+  justify-self: flex-end;
+}
